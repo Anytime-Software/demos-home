@@ -1,0 +1,29 @@
+Ants tattoo Arizona - website preview, version 20261015-2185e1dd788f (15 October 2026)
+Prepared by Anytime Software. Not the official website of Ants tattoo Arizona; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, fine-line tattoos, walk-ins welcome, booking by Instagram DM and the address 1437 E Main St, Mesa, AZ 85203 come from
+the business's public Instagram profile https://www.instagram.com/antstattoo_az/ (bio), checked 15 October 2026, 01:42 UTC.
+The Google listing https://maps.app.goo.gl/HS8dUxdPUSG1HfVy8 resolves to the matching place "Ants tattoo Arizona".
+Left out until the business confirms them: phone number, suite number, hours, prices and the pricing slogan, awards,
+artist names and handles, reviews and ratings, licences, guarantees, email and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- fine-line-arm: https://stocksnap.io/photo/HBTMBXQX80
+- fine-pen: https://stocksnap.io/photo/XDMB0IC7TX
+- ink-cloud: https://stocksnap.io/photo/XZRMQHLJBC
+- open-sign: https://stocksnap.io/photo/A8Y490YFFX
+- phone: https://stocksnap.io/photo/DJUOGBUEPF
+- tattooing: https://stocksnap.io/photo/SSTCSTBF7R
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
