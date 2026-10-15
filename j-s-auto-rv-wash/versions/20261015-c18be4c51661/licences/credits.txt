@@ -1,0 +1,31 @@
+J's Auto & Rv Wash - website preview, version 20261015-c18be4c51661 (15 October 2026)
+Prepared by Anytime Software. Not the official website of J's Auto & Rv Wash; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (mobile car wash and RV detailing), town (Yuma, Arizona), "100% mobile" and the two listed services
+(Mobile car wash, RV detailing) come from the business's public Facebook page https://www.facebook.com/jsautowash/,
+checked 15 October 2026.
+Left out until the business confirms them: phone number (Facebook is used as the contact route), any shop address,
+wash packages, hours, prices, ratings and reviews, awards, licences or guarantees, booking or forms, staff names,
+service area limits and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- airstream: https://stocksnap.io/photo/VWNRTTOCW7
+- bubbles: https://stocksnap.io/photo/EFWDY16TDR
+- chrome-headlight: https://stocksnap.io/photo/HUFLOFTVQT
+- desert-highway: https://stocksnap.io/photo/XJ2BKV9ASS
+- desert-trailer: https://stocksnap.io/photo/D2INGQN2HP
+- hose-spray: https://stocksnap.io/photo/369D8C305A
+- red-pickup: https://stocksnap.io/photo/Z1VWO8GFCV
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
