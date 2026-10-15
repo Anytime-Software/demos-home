@@ -1,0 +1,33 @@
+NuTrends Nails & Spa - website preview, version 20261015-6afb25eb0b3e (15 October 2026)
+Prepared by Anytime Software. Not the official website of NuTrends Nails & Spa; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (nail salon), town (Tempe, Arizona), street address (4427 S Rural Rd, Suite 1, Tempe, AZ 85282) and the
+three listed services (Nails, Pedicures, Waxing) come from the business's public Facebook page
+https://www.facebook.com/people/NuTrends-Nails-Spa/100037943241013/ (intro and details) and its matching Google listing
+https://maps.app.goo.gl/HVNUtgDJvrukjqrk9, checked 15 October 2026.
+Left out until the business confirms them: phone number (Facebook is used as the contact route), hours (only a holiday
+post was seen), ratings and reviews, prices, awards, licences or guarantees, booking or forms, email, staff names and
+the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- bath-salts: https://stocksnap.io/photo/SJX0UPY4VO
+- dark-nails: https://stocksnap.io/photo/woman-hand-YGLJEV5NZB
+- flip-flops: https://stocksnap.io/photo/sandals-flipflops-7FE6BAFDCD
+- leaves: https://stocksnap.io/photo/LCH2CFHNDM
+- plum-nail: https://stocksnap.io/photo/hand-nail-1942FD49BF
+- soap-brush: https://stocksnap.io/photo/soap-bath-AULHEZDSCC
+- stones-towels: https://stocksnap.io/photo/spa-concept-ZCLKDUY2CZ
+- stretch-feet: https://stocksnap.io/photo/people-woman-4ZV39Y06ZJ
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
