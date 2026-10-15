@@ -1,0 +1,31 @@
+Tommy Nails - website preview, version 20261015-7bba301430f4 (15 October 2026)
+Prepared by Anytime Software. Not the official website of Tommy Nails; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (nail salon), street address (1855 W Greenway Rd Unit 119, Phoenix, AZ 85023), appointment phone
+(602-993-9849), "walk-ins welcome" and "appointments by phone" come from the business's public Instagram profile
+https://www.instagram.com/tommynailssalon and its matching Google listing https://maps.app.goo.gl/wvGASTPAKAx3RzdP6,
+checked 15 October 2026.
+Left out until the business confirms them: opening hours (third-party hours conflict), prices, ratings and reviews,
+awards, licences or guarantees, staff names, email, online booking, and the business's own photos and logo.
+The name is shown as "Tommy Nails" (Google listing); the Instagram profile displays "Tommy's Nails".
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- nail-file: https://stocksnap.io/photo/OCZSBORYR9
+- orchid-hands: https://stocksnap.io/photo/HOCHOH7BHJ
+- pink-blossoms: https://stocksnap.io/photo/TERRLQQCQH
+- pink-rose: https://stocksnap.io/photo/6VZG2T1IN2
+- ring-hand: https://stocksnap.io/photo/WMDGF8555V
+- spa-stones: https://stocksnap.io/photo/QXVBJSHBKP
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
