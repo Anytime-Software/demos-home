@@ -1,0 +1,33 @@
+Handy Heitz Services - website preview, version 20261015-818b178233f6 (15 October 2026)
+Prepared by Anytime Software. Not the official website of Handy Heitz Services; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (handyman services), town (Prescott Valley, Arizona), the four listed services (Handyman services,
+Plumbing, Electrical, Sheetrock) and the statement "Not a licensed contractor" come from the business's public
+Facebook page https://www.facebook.com/people/Handy-Heitz-Services/100076802633146/, checked 15 October 2026.
+Left out until the business confirms them: phone number (Facebook is used as the contact route), street address,
+years of experience, estimates, slogans, hours, prices, ratings, comments and reviews, awards or guarantees,
+booking or forms, staff names, service area limits and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- bare-room: https://stocksnap.io/photo/T3QP4DRXS2
+- basin-tap: https://stocksnap.io/photo/D3901L7G93
+- drill-plans: https://stocksnap.io/photo/N3BPNPN0FY
+- light-switch: https://stocksnap.io/photo/GCFFRMA9VR
+- old-tools: https://stocksnap.io/photo/CZ2V9D9RVP
+- tool-belt: https://stocksnap.io/photo/7QLS6OXUNH
+- tool-spread: https://stocksnap.io/photo/12ZHB0V43M
+- wall-tap: https://stocksnap.io/photo/SYHL198L8Q
+- workbench: https://stocksnap.io/photo/RKR8CFTODQ
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
