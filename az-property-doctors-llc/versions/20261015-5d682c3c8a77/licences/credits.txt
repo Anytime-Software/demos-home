@@ -1,0 +1,44 @@
+Az Property Doctors, LLC: demo website concept, built from scratch, 15 October 2026
+Unsolicited demo by Anytime Software. Not the official website. Not commissioned, approved or affiliated.
+Nothing on the page sends a message, books a visit or takes a payment. No forms, cookies, analytics or tracking.
+
+BUSINESS FACTS
+Name, town (Maricopa, Arizona) and the 14 listed services come from the business's public Facebook page
+https://www.facebook.com/AzPropertyDoctors/ (Intro) and its matching Google listing, checked 15 October 2026.
+Left out on purpose: phone numbers (the two sources disagree), email, hours, street address, licence details,
+reviews and ratings, prices, staff names and the business's own photos. No code, text or photos were copied from
+any earlier demo of this business.
+
+PHOTOGRAPHY (illustrative stock only: not this business's work, premises, staff or customers)
+All from StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- level: StockSnap ROG47AU0LS
+- drill: StockSnap L8IBQZYEAL "Craftsman Drill" by Thijs van der Weide
+- hammer: StockSnap XQWS5SOONG "Hammer Tool" by Design by Matt
+- calipers: StockSnap GWIDWSKJJJ "Calipers Carpenter" by James Frid
+- shavings: StockSnap 1DMG58KRJ8 "Woodworking Shavings" by fireskystudios.com
+- workshop: StockSnap YPM6VH3FCW "Carpenter Workshop" by James Frid
+- gutted: StockSnap MF4PFAS13H
+- kitchen: StockSnap 3ZX53UFU8B
+- sideboard: StockSnap ND7JR4XWKI
+- bath-green: StockSnap F4CZ0LN5OO
+- bath-glass: StockSnap SX2H0BU5EG
+- sink-tile: StockSnap D3901L7G93
+- wall-tiles: StockSnap SLNDPAXVQG
+- wood-door: StockSnap E792698C10
+- media-wall: StockSnap D0NOMANBA7
+- accent-wall: StockSnap BI0P6D3WL9
+- herringbone: StockSnap 478BZDEA2Y
+- wood-floor: StockSnap DB76C7C65B "Wood Floor" by Keith Misner
+- bright-room: StockSnap 87ONRC5PWV
+- old-door: StockSnap 6JUFYM5UNP
+
+TYPE
+Bricolage Grotesque, Inter and JetBrains Mono, SIL Open Font License 1.1, self-hosted through Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+React and React DOM (MIT, Meta Platforms), three.js (MIT, three.js authors), Framer Motion (MIT, Framer B.V.),
+Lenis smooth scroll (MIT, darkroom.engineering), Vite (MIT).
+The 3D "blueprint to built" room was written for this demo with three.js. Interaction patterns (masked text reveal,
+scroll-lit words, 3D tilt cards with glare, magnetic buttons, sticky stacking cards, horizontal scroll gallery,
+clip-path image reveal) follow ideas popularised by Aceternity UI and 21st.dev component libraries; they were
+rewritten here with Framer Motion.
