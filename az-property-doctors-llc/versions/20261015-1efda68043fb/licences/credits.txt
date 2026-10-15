@@ -1,0 +1,39 @@
+Az Property Doctors, LLC - website preview, version 20261015-1efda68043fb (15 October 2026)
+Prepared by Anytime Software. Not the official website of Az Property Doctors, LLC; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category, town (Maricopa, Arizona) and the 14 listed services come from the business's public Facebook page
+https://www.facebook.com/AzPropertyDoctors/ (Intro) and its matching Google listing, checked 15 October 2026.
+Left out until the business confirms them: phone number (the two sources show different numbers), email, hours, street address,
+licence details, reviews and ratings, prices, staff names and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- accent-wall: https://stocksnap.io/photo/BI0P6D3WL9
+- bath-glass: https://stocksnap.io/photo/SX2H0BU5EG
+- bath-green: https://stocksnap.io/photo/F4CZ0LN5OO
+- bright-room: https://stocksnap.io/photo/87ONRC5PWV
+- calipers: https://stocksnap.io/photo/GWIDWSKJJJ "Calipers Carpenter" by James Frid
+- drill: https://stocksnap.io/photo/L8IBQZYEAL "Craftsman Drill" by Thijs van der Weide
+- gutted: https://stocksnap.io/photo/MF4PFAS13H
+- herringbone: https://stocksnap.io/photo/478BZDEA2Y
+- kitchen: https://stocksnap.io/photo/3ZX53UFU8B
+- level: https://stocksnap.io/photo/ROG47AU0LS
+- media-wall: https://stocksnap.io/photo/D0NOMANBA7
+- old-door: https://stocksnap.io/photo/6JUFYM5UNP
+- sideboard: https://stocksnap.io/photo/ND7JR4XWKI
+- sink-tile: https://stocksnap.io/photo/D3901L7G93
+- wood-door: https://stocksnap.io/photo/E792698C10
+- wood-floor: https://stocksnap.io/photo/DB76C7C65B "Wood Floor" by Keith Misner
+- workshop: https://stocksnap.io/photo/YPM6VH3FCW "Carpenter Workshop" by James Frid
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
