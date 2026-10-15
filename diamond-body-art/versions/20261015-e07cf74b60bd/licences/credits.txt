@@ -1,0 +1,31 @@
+Diamond Body Art - website preview, version 20261015-e07cf74b60bd (15 October 2026)
+Prepared by Anytime Software. Not the official website of Diamond Body Art; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (tattoo and piercing shop), the two services (tattoos, piercings), street address
+(1116 S Crismon Rd, Suites 103-104, Mesa, Arizona) and phone number (480-354-2782) come from the business's public
+Facebook page https://www.facebook.com/DiamondBodyArt/ and its matching Google listing https://maps.app.goo.gl/EVpZaHoA6sKJyZkw8,
+checked 15 October 2026.
+Left out until the business confirms them: ZIP code (the two sources show different ZIP codes), ratings and reviews,
+artist names, hours, prices, awards, licences and guarantees, email, booking, and the business's own photos and logo.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- earring: https://stocksnap.io/photo/GZ8PPR4HDG
+- gloves: https://stocksnap.io/photo/RDXQXHECLD
+- hoop: https://stocksnap.io/photo/FEUMZDZO2A
+- legs: https://stocksnap.io/photo/C60DNBUMJT
+- machine: https://stocksnap.io/photo/6C3NZXSDFF
+- notebook: https://stocksnap.io/photo/4J9SXDUVFB
+- sleeve: https://stocksnap.io/photo/9EA07O4N2U
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
