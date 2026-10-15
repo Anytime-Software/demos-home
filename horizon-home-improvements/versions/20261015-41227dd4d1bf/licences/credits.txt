@@ -1,0 +1,33 @@
+Horizon Home Improvements - website preview, version 20261015-41227dd4d1bf (15 October 2026)
+Prepared by Anytime Software. Not the official website of Horizon Home Improvements; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (home improvements and remodeling), town (Flagstaff, Arizona) and the three listed services (Home
+improvements, Small upgrades, Remodeling) come from the business's public Instagram profile
+https://www.instagram.com/horizon.homeimprovements.az/, checked 15 October 2026.
+Left out until the business confirms them: the contractor licence number (the numbers found in different places do
+not match), phone number (Instagram is used as the contact route), slogans, hours, prices, ratings and reviews,
+awards or guarantees, booking or forms, street address, staff names, service area limits and the business's own
+photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- aframe-windows: https://stocksnap.io/photo/THL5OC7QEA
+- cedar-bedroom: https://stocksnap.io/photo/NNZ04PGNFD
+- gable-siding: https://stocksnap.io/photo/GSHIXNLN3K
+- handrail: https://stocksnap.io/photo/O1SC8XTWTL
+- level-floor: https://stocksnap.io/photo/ROG47AU0LS
+- pine-cabin: https://stocksnap.io/photo/OPXVKL3DBA
+- sofa-window: https://stocksnap.io/photo/TQNWBTLHLY
+- white-shelf: https://stocksnap.io/photo/CTKGR7O9UB
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
