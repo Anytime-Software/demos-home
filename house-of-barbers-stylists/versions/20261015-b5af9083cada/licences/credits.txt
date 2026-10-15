@@ -1,0 +1,30 @@
+House of Barbers & Stylists - website preview, version 20261015-b5af9083cada (15 October 2026)
+Prepared by Anytime Software. Not the official website of House of Barbers & Stylists; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name (as displayed on Facebook), category (barber shop), town (Chandler, Arizona), street address (961 W Ray Rd, Suite 9,
+Chandler, AZ 85225) and the two listed services (Barber shop services, Men's grooming) come from the business's public
+Facebook page https://www.facebook.com/Houseofbarberz and its matching Google listing https://maps.app.goo.gl/subH5BDGzZKGcVDv5,
+checked 15 October 2026.
+Left out until the business confirms them: phone number, hours, reviews and ratings, prices, promotions, licences, awards or
+guarantees, staff names, a haircut menu or specific grooming techniques, the "world-class" wording from the page intro,
+booking, and the business's own photos and logo.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- clipper-cut: https://stocksnap.io/photo/O6KYUCUFY4
+- comb-scissors: https://stocksnap.io/photo/A5M4RVGZKE
+- scissor-trim: https://stocksnap.io/photo/S7UEWWIRTD
+- shave-kit: https://stocksnap.io/photo/GZP9ZEQPFL
+- shears: https://stocksnap.io/photo/R9YRHH2JQY
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
