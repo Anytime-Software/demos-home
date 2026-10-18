@@ -1,0 +1,35 @@
+Arizona Tiny Tattoos - website preview, version 20261018-952450c9f3f1 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Arizona Tiny Tattoos; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name "Arizona Tiny Tattoos", street address (444 W Main St #103, Mesa, AZ 85201), phone (602) 815-8232 and
+category (tattoo shop): Google listing https://www.google.com/maps/place/Arizona+Tiny+Tattoos/@33.4154395,-111.8417574,17z
+(research checked 17 October 2026; re-checked 18 October 2026). The services shown (Tiny tattoos, Flash tattoos) are
+"tiny/flash tattoos" as named in the shop's own Facebook video post of 26 September
+https://www.facebook.com/dakar.little/videos/1437550594960735/ (checked 17 October 2026), which also names the shop,
+its address and phone. Booking by text (name, idea and placement) and then a call: the linked Instagram profile
+https://www.instagram.com/dakartattooing/ (checked 17 October 2026).
+Left out until the business confirms them: hours (the Google listing and the shop's own posts disagree, and this page
+version has no hours section), walk-in availability, promotional prices, the artist's other location, the Linktree,
+booking, video and course-supply links (no online booking is offered on this page), ratings and reviews, email,
+credentials, artist names and the business's own photos and artwork (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- cactus: https://stocksnap.io/photo/B4ECB08B3F
+- desert: https://stocksnap.io/photo/HNSQS8C806
+- fountain: https://stocksnap.io/photo/CJETOU0HKX
+- lounge: https://stocksnap.io/photo/YED8JWCWVB
+- nib: https://stocksnap.io/photo/V8A98C0U96
+- sketch: https://stocksnap.io/photo/KJI7VXYSWG
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
