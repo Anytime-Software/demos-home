@@ -1,0 +1,32 @@
+Barber 88 - website preview, version 20261018-b9397fad1a29 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Barber 88; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (7435 W Cactus Rd #109, Peoria, Arizona) and phone (623) 242-7632: Google listing
+https://www.google.com/maps/place/Barber+88/@33.5952416,-112.2179284,17z and the business's Facebook page
+https://www.facebook.com/p/Barber-88-in-Peoria-100075756842408/ (research checked 17 October 2026; Google listing
+re-checked 18 October 2026). Services (Haircuts, Skin fade, Beard trim, Hot towel shave, Ladies haircuts, Children
+haircuts, Senior haircuts): the business's Booksy page https://booksy.com/en-us/519270_barber-88_barber-shop_14716_peoria
+(checked 17 October 2026).
+Left out until the business confirms them: postcode (sources disagree), hours, ratings and reviews, prices, the online
+booking link, email, staff names and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chair: https://stocksnap.io/photo/7M505B7MYV
+- fade: https://stocksnap.io/photo/W5T564U6YN
+- razor: https://stocksnap.io/photo/06HGN8LMUX
+- scissors: https://stocksnap.io/photo/ASMG0XOU6M
+- towel: https://stocksnap.io/photo/NR1P43DL18
+- vintage: https://stocksnap.io/photo/V3UFWFPRY6
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
