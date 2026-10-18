@@ -1,0 +1,30 @@
+Area 51 Piercings - website preview, version 20261018-151b82fe9bdd (18 October 2026)
+Prepared by Anytime Software. Not the official website of Area 51 Piercings; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (7980 N 51st Ave #106, Glendale, AZ 85301), phone (623) 440-3371 and category (body piercing
+shop): Google listing https://www.google.com/maps/place/Area+51+Piercings/@33.5518127,-112.1694285,17z and the
+business's Facebook page https://www.facebook.com/Area51Piercings/ (same phone and address; research checked
+17 October 2026; Google listing re-checked 18 October 2026). The service shown (Body piercing) is the business
+category from those two sources; no separate service list was sourced.
+Left out until the business confirms them: hours, ratings and reviews, prices, email, specific piercing and jewelry
+types, staff names, the area51piercings.com domain (placeholder page) and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- beads: https://stocksnap.io/photo/DFD730528A
+- chair: https://stocksnap.io/photo/E3PW2UR6AE
+- display: https://stocksnap.io/photo/VHYI45MIFN
+- necklace: https://stocksnap.io/photo/B3FWPBJURM
+- studio: https://stocksnap.io/photo/0AA03E91E8
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
