@@ -1,0 +1,36 @@
+12th Planet Tattoo Company - website preview, version 20261018-2ed0d96f91ce (18 October 2026)
+Prepared by Anytime Software. Not the official website of 12th Planet Tattoo Company; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name "12th Planet Tattoo Co.", street address (1299 E Fry Blvd, Sierra Vista, AZ 85635), phone (520) 335-1232 and
+category (tattoo shop): Google listing https://www.google.com/maps/place/12th+Planet+Tattoo+Co./@31.5552474,-110.2836226,17z
+(research checked 17 October 2026; re-checked 18 October 2026). Name "12th Planet Tattoo Company": the shop's
+Instagram profile https://www.instagram.com/12thplanettattoocompany/ (checked 17 October 2026). Contact through
+Instagram or by phone: the shop's own Instagram post https://www.instagram.com/p/DcPf6wly7Vf/ (19 August; checked
+17 October 2026). The services shown (Tattoos, Piercings) are "Tattoos and piercings" as listed on the artists'
+Taplink page https://taplink.cc/sweetie_bee (checked 17 October 2026).
+Left out until the business confirms them: hours (published on Instagram, but this page version has no hours
+section), ratings and reviews, prices, email, awards and credentials, artist names, the old Facebook page (it points
+to a newer page), third-party directory listings, the merch store and the business's own photos and artwork (no
+reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- armchairs: https://stocksnap.io/photo/MEWVQFDT8Y
+- drawing: https://stocksnap.io/photo/4PMI1YMWDY
+- moon: https://stocksnap.io/photo/PQXYMRLH8S
+- redmoon: https://stocksnap.io/photo/1K58W7Y1FQ
+- rings: https://stocksnap.io/photo/G1TSJYDKVM
+- sketchbook: https://stocksnap.io/photo/BUX1AZWHVI
+- skull: https://stocksnap.io/photo/N67UQADHI4
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
