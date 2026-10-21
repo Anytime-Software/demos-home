@@ -1,0 +1,26 @@
+Crepelatte - website preview, version 20261018-0d1db8dad6bf (18 October 2026)
+Prepared by Anytime Software. Not the official website of Crepelatte; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-4fbf98add0c9a51b47d28098 (checked 17 October 2026 19:32 UTC) and a Google Maps re-check on 18 October 2026 11:33 UTC. Name, street address (108 S 5th St, Buckeye, AZ 85326), phone (602) 762-8107 and the category "coffee shop" are from the Google listing https://www.google.com/maps/place/Crepelatte/@33.3701169,-112.5848103,17z (checked 17 October 2026, re-checked 18 October 2026). The name, the menu categories "coffee and sweet/savory crepes" and the Instagram link are from the business's Instagram profile https://www.instagram.com/crepe_latte/ (checked 17 October 2026), whose post images show the same phone and a post of 8 October 2026 for 5th St & Monroe in Buckeye. Left out on purpose: opening hours (Maps and older social hours differ), prices, individual menu items and fillings, online ordering, ratings, reviews and review counts, email, the Facebook page (login wall), older directory addresses, and the business's own photos. All photos are illustrative CC0 stock images from StockSnap; they are not Crepelatte's food or drinks.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- berries: https://stocksnap.io/photo/ICYU9IFGSZ
+- eggs: https://stocksnap.io/photo/F0F0XPIMG8
+- espresso: https://stocksnap.io/photo/RKVW9F72PL
+- flour: https://stocksnap.io/photo/HOKEB8G6JM
+- latte: https://stocksnap.io/photo/V7HJ1MBGUP
+- pour: https://stocksnap.io/photo/DTKOOFPC06
+- strawberries: https://stocksnap.io/photo/TUJE5XIJT3
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
