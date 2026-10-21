@@ -1,0 +1,27 @@
+Lighthouse Lounge - website preview, version 20261018-db96b65d60f7 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Lighthouse Lounge; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-3439f8cb3fadf419cb637b15 (checked 17 October 2026 21:25 UTC) and a Google Maps re-check on 18 October 2026 11:34 UTC. Name, street address (317 Lake Havasu Ave, Lake Havasu City, AZ 86403), phone (928) 732-0060 and the category "bar & grill" are from the Google listing https://www.google.com/maps/place/Lighthouse+Lounge/@34.4673767,-114.3376252,17z (re-checked 18 October 2026); the same name, address (written there as 317 S Lake Havasu Ave) and phone are on the business's Facebook page https://www.facebook.com/people/Lighthouse-Lounge/61550826508124/ (checked 17 October 2026), which is also the Facebook link used here. The description "bar, restaurant and live music venue" and the food categories burgers, pizza, sandwiches and salads are from the business's Toast online ordering page https://order.toasttab.com/online/lighthouse-lounge-lake-havasu-city-317-s-lake-havasu-ave (checked 17 October 2026). Left out on purpose: opening hours (Toast ordering hours differ from venue hours), prices, promotions and drink specials, individual dishes and drinks, an event calendar, band names or dates (need current confirmation), any age or ID wording, the Toast ordering and rewards links, ratings and reviews, licence, hygiene or award claims, the tourism directory listing, and the business's own photos. All photos are illustrative CC0 stock images from StockSnap; they are not Lighthouse Lounge's food, bar, stage or guests.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- bar: https://stocksnap.io/photo/4QXLX5ZULO
+- burger: https://stocksnap.io/photo/WYL5KWIPUD
+- grill: https://stocksnap.io/photo/WOA0EWC9HM
+- mic: https://stocksnap.io/photo/N06ELOLAT9
+- pizza: https://stocksnap.io/photo/5BADCUBZS9
+- salad: https://stocksnap.io/photo/LPN1B8AHLA
+- sandwich: https://stocksnap.io/photo/J2S35LH7Z1
+- stage: https://stocksnap.io/photo/7EIUMARFHB
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
