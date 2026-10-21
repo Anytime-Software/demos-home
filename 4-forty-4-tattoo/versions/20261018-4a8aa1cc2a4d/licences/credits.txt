@@ -1,0 +1,32 @@
+4 Forty 4 Tattoo - website preview, version 20261018-4a8aa1cc2a4d (18 October 2026)
+Prepared by Anytime Software. Not the official website of 4 Forty 4 Tattoo; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (444 E 6th St, Tucson, AZ 85705) and phone (520) 620-0444: the business's Google Maps listing
+(tattoo shop; checked 17 October 2026, re-checked 18 October 2026) and its public Facebook page
+https://www.facebook.com/p/4Forty4-Tattoo-100063654549253/ (same phone; checked 17 October 2026). The Fourth Avenue
+merchant listing (checked 17 October 2026) links this Facebook page with the 444 E 6th Street address.
+The services shown (Tattoos, Piercing) are the business category "Tattoo and piercing shop" from the Facebook page;
+no separate service list was sourced.
+Not shown: details we could not confirm from current sources, such as hours, prices, reviews and ratings, other
+contact details, artist names, tattoo styles and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- antlers: https://stocksnap.io/photo/8BCC48CYY0
+- earrings: https://stocksnap.io/photo/VHIX76K7EH
+- inkbottle: https://stocksnap.io/photo/EGIYJI3NIH
+- marble: https://stocksnap.io/photo/SYULKOWXSU
+- sketch: https://stocksnap.io/photo/3VJLANA7FD
+- skull: https://stocksnap.io/photo/IGHUNLL085
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
