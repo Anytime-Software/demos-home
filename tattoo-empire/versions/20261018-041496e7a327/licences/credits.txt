@@ -1,0 +1,32 @@
+Tattoo Empire - website preview, version 20261018-041496e7a327 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Tattoo Empire; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name "Tattoo Empire", category (tattoo shop), street address (5060 W Bethany Home Rd #16, Glendale, AZ 85301) and
+phone (623) 931-1321: the business's Google listing (research checked 17 October 2026; re-checked 18 October 2026,
+when the listing showed the same name, address and phone, category tattoo shop and an Instagram link as its website).
+The phone number is shown as published; it has not been called. The owner and artist's name (Jesus Delgado) and the
+description as a tattoo shop come from the Instagram profile https://www.instagram.com/jesusdelgado/, which the Google
+listing links to and whose bio identifies the Tattoo Empire owner and artist (checked 17 October 2026).
+Not shown: opening hours, other contact routes, ratings and reviews, prices, tattoo styles, and the artist's own
+photos and tattoos (no reuse rights; the Instagram link is the place to see the work).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- brick: https://stocksnap.io/photo/M9Q1QVQ9B9
+- inkbottle: https://stocksnap.io/photo/TP3GQ9C2S3
+- lion: https://stocksnap.io/photo/U3QKXPAPGO
+- pencil: https://stocksnap.io/photo/TQBLCCX9IK
+- redink: https://stocksnap.io/photo/FV2V1SQ3SO
+- sketch: https://stocksnap.io/photo/KBTSP7FFIY
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
