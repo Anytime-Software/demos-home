@@ -1,0 +1,26 @@
+Luiza's Filipino Kitchen - website preview, version 20261018-2fe0a07527b0 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Luiza's Filipino Kitchen; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-a02e0799288f217edf203a1c (checked 17 October 2026 19:45 UTC) and a Google Maps re-check on 18 October 2026 11:34 UTC. The name, the category "Filipino restaurant", the phone (928) 487-2702 and the Facebook link are from the business's Facebook page https://www.facebook.com/p/Luizas-Filipino-Kitchen-61583459294207/ (checked 17 October 2026). The street address (8108 E Frontage Rd, Prescott Valley, AZ 86314) is from the Google listing https://www.google.com/maps/search/Luiza%27s+Filipino+Kitchen+Prescott+Valley (checked 17 October 2026), which shows the same name, phone and address; the listing was re-checked on 18 October 2026. Left out on purpose: dish names, including a dated Saturday special posted on Facebook (not a permanent menu item), opening hours (not a full schedule), prices, DoorDash and any online ordering (destination not verified), ratings and reviews, the email address (not delivery-tested), an older phone number that conflicts with the current page, and the business's own photos. All photos are illustrative CC0 stock images of ingredients and cooking from StockSnap; they are not Luiza's Filipino Kitchen's food.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chilies: https://stocksnap.io/photo/8002II1N54
+- coconut: https://stocksnap.io/photo/AZEZSAGD4G
+- eggplant: https://stocksnap.io/photo/CPA2WXSFA2
+- garlic: https://stocksnap.io/photo/56SUTM56T5
+- pan: https://stocksnap.io/photo/N0TOKTDNLC
+- squash: https://stocksnap.io/photo/81TE40GI72
+- steam: https://stocksnap.io/photo/IZYP5AYVUD
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
