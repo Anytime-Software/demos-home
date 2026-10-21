@@ -1,0 +1,25 @@
+Mid-State Market - website preview, version 20261018-df359cc87f63 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Mid-State Market; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-4f9eeddbe308d437f2087855 (checked 17 October 2026 20:13 UTC) and a Google Maps re-check on 18 October 2026 11:34 UTC. The name, the town (Payson, Arizona) and the phone (928) 474-6174 are from the Google Maps listing for Mid-State Market in Payson (checked 17 October 2026, re-checked 18 October 2026, where the category is shown as bar & grill). The description "convenience market and bar & grill location" is from the business's own Facebook post of 16 October 2026 (checked 17 October 2026), which shows the same phone. The Facebook link https://www.facebook.com/ryecountry/ is the business's page as recorded in the packet. Left out on purpose: the street address (sources give different street numbers, so only the town is shown and no map link is given), the postcode, opening hours (market and food service hours differ), prices and offers, the food brand named in the Facebook post and any claims about its food (ownership not verified), online ordering, email, ratings and reviews, and the business's own photos. All photos are illustrative CC0 stock images from StockSnap; they are not Mid-State Market's shop, bar, food or customers.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- bar: https://stocksnap.io/photo/P0B6LAPFPC
+- basket: https://stocksnap.io/photo/CUPJ7AU7JD
+- cart: https://stocksnap.io/photo/32RV6Z2P9L
+- grill: https://stocksnap.io/photo/M4PI6CXDDP
+- pines: https://stocksnap.io/photo/TAS2O83WG0
+- road: https://stocksnap.io/photo/7CF20F38B9
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
