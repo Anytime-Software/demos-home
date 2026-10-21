@@ -1,0 +1,33 @@
+Nora Salon - website preview, version 20261018-1ed2d8cf743e (18 October 2026)
+Prepared by Anytime Software. Not the official website of Nora Salon; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (15224 N 59th Ave #9, Glendale, AZ 85306), category (hair salon) and phone (773) 630-2932: Google
+listing https://www.google.com/maps/place/Nora+Salon/@33.6240456,-112.1863558,17z (research checked 17 October 2026;
+Google listing re-checked 18 October 2026). Instagram profile https://www.instagram.com/nora.salon1/ (linked from the
+Google listing; checked 17 October 2026). Services (Hair extensions, Brazilian blowout, Hair Botox, Color and
+highlights, Haircut and styling): the business's Instagram profile (checked 17 October 2026).
+Left out until the business confirms them: hours, ratings and reviews, prices, online booking, email, staff or stylist
+names, product brands, the business's own logo and photos (no reuse rights), and an older Instagram account that is no
+longer available.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- curls: https://stocksnap.io/photo/R6CKAMVOMZ
+- dryer: https://stocksnap.io/photo/D5CG6JAYN3
+- flow: https://stocksnap.io/photo/8JJL0GL391
+- highlights: https://stocksnap.io/photo/HDZE2J2VNL
+- jar: https://stocksnap.io/photo/QYF5HNIQ7Z
+- updo: https://stocksnap.io/photo/D40LVNV6BH
+- vanity: https://stocksnap.io/photo/EXKVSL1OHJ
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
