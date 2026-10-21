@@ -1,0 +1,35 @@
+Double Down Tattoo and Body Piercing - website preview, version 20261018-4115d3de81c4 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Double Down Tattoo and Body Piercing; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (4738 W Glendale Ave, Glendale, AZ 85301), category (tattoo shop) and services (tattoo and
+body piercing studio): Google listing https://www.google.com/maps/place/Double+Down+Tattoo+and+Body+Piercing/@33.5388889,-112.1616667,17z
+(research checked 17 October 2026; Google listing re-checked 18 October 2026, including name, address and phone).
+Phone (623) 934-1182 and "call for appointments": the business's Instagram profile
+https://www.instagram.com/doubledowntattoo/ (checked 17 October 2026; phone also on the Google listing 18 October 2026).
+The two services shown (Tattoos, Body piercing) come from the studio's listed description; no separate service list
+was sourced.
+Left out until the business confirms them: hours, ratings and reviews, prices, artist names, tattoo styles,
+piercing and jewelry types, the website address currently linked from the Instagram profile (it does not represent
+the studio) and the business's own photos and artwork (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- aces: https://stocksnap.io/photo/C8301OWBND
+- brick: https://stocksnap.io/photo/VBBD3LOZIS
+- dice: https://stocksnap.io/photo/IMUB39JBN1
+- inkwell: https://stocksnap.io/photo/JONUVYHTQD
+- redink: https://stocksnap.io/photo/52BQEEJF2J
+- rings: https://stocksnap.io/photo/C1ZAW5IMSC
+- sketch: https://stocksnap.io/photo/GW7VC9EJ0X
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
