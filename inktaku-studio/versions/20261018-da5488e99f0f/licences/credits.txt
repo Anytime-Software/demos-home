@@ -1,0 +1,35 @@
+Inktaku Studio - website preview, version 20261018-da5488e99f0f (18 October 2026)
+Prepared by Anytime Software. Not the official website of Inktaku Studio; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name "Inktaku Studio" and street address (4346 W Thunderbird Rd, Glendale, Arizona): Google listing
+https://www.google.com/maps/place/Inktaku+Studio/@33.6115409,-112.1536868,17z (research checked 17 October 2026;
+re-checked 18 October 2026, when the listing showed 4346 W Thunderbird Rd, no phone and no website). Some secondary
+directories give 4348; the Google listing's 4346 is used. The service shown (Anime and pop-culture tattoos) is the
+studio's own description as an anime and pop-culture tattoo studio, and the note that visitors contact the individual
+artists for booking information comes from the studio's Instagram profile https://www.instagram.com/inktaku.studio/
+(checked 17 October 2026).
+Left out until the business confirms them: a phone number (no verified studio phone; none on the Google listing),
+the postcode, hours, ratings and reviews, prices, the owner's and artists' names, the artist's own website and email
+booking (artist-specific, not a studio route), and the studio's own artwork, logo and photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- arcade: https://stocksnap.io/photo/NRI5VQ95W0
+- bottles: https://stocksnap.io/photo/QNV95PHGQS
+- brush: https://stocksnap.io/photo/1CCDLF02N5
+- buttons: https://stocksnap.io/photo/B3FJDNOAMI
+- crane: https://stocksnap.io/photo/ADXA1088QC
+- jar: https://stocksnap.io/photo/PSEKRQ0TOP
+- sketch: https://stocksnap.io/photo/WTGTEOHQ8X
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
