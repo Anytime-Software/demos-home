@@ -1,0 +1,35 @@
+Triple Ink Tattoo - website preview, version 20261018-d09dd5f36db8 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Triple Ink Tattoo; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (1700 Lakeside Dr Suite 5, Bullhead City, AZ 86442), phone (928) 268-6590 and category (tattoo
+and piercing shop): the business's Facebook page https://www.facebook.com/people/Triple-Ink-Tattoo/61577925082190/
+(research checked 17 October 2026) and its Google listing
+https://www.google.com/maps/place/Triple+Ink+Tattoo/@35.1096368,-114.6126784,17z (same name, address as #5, phone;
+tattoo shop; re-checked 18 October 2026). The services shown (Tattoos, Piercing) are the business category from
+the Facebook page; no separate service list was sourced.
+Left out until the business confirms them: hours, ratings and reviews, prices and promotional offers, license,
+hygiene or award claims, the email address (not delivery-tested), the Instagram profile (not independently
+verified), a second address and phone from a directory (not corroborated), tattoo styles, piercing and jewelry
+types, artist names and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- antlers: https://stocksnap.io/photo/N35P5KWFZV
+- armchair: https://stocksnap.io/photo/SHE40GOPPL
+- drawing: https://stocksnap.io/photo/Y2P39NGLLO
+- neon: https://stocksnap.io/photo/1MB7WMS2HX
+- redchair: https://stocksnap.io/photo/6K0ATYBCAQ
+- ring: https://stocksnap.io/photo/WZQVVNDMIQ
+- skull: https://stocksnap.io/photo/ZK8O6RDT8X
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
