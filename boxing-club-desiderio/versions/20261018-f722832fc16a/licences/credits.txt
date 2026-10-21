@@ -1,0 +1,31 @@
+Boxing Club Desiderio - website preview, version 20261018-f722832fc16a (18 October 2026)
+Prepared by Anytime Software. Not the official website of Boxing Club Desiderio; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name "Boxing Club Desiderio", street address (14644 N Cave Creek Rd, Phoenix, AZ 85022), phone (602) 829-0802 and
+category (boxing gym): Google listing https://www.google.com/maps/place/Boxing+Club+Desiderio/@33.6200982,-112.0309678,17z
+(research checked 17 October 2026; re-checked 18 October 2026). Name, the same phone number and the services shown
+(Boxing gym, Boxing training, from "Boxing gym and boxing training"): the gym's Instagram profile
+https://www.instagram.com/boxingclubdesiderio1/ (checked 17 October 2026).
+Left out until the business confirms them: hours (published on Instagram, but this page version has no hours
+section), the second phone number in the Instagram bio, ratings and reviews, prices, memberships, class types and
+schedules, coach names and credentials, age groups, booking, competition results and health or fitness claims, an
+older Facebook page and reel (not a current channel), and the gym's own photos and videos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- barbell: https://stocksnap.io/photo/3H89EH3WIJ
+- plate: https://stocksnap.io/photo/SRWV8BAHE6
+- ring: https://stocksnap.io/photo/GAB4IVSO2F
+- spar: https://stocksnap.io/photo/M5791YB6J9
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
