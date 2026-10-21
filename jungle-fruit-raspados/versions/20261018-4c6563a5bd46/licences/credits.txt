@@ -1,0 +1,24 @@
+Jungle Fruit Raspados - website preview, version 20261018-4c6563a5bd46 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Jungle Fruit Raspados; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-6d831a2015fdc0581195aa76 (checked 17 October 2026 21:14 UTC) and a Google Maps re-check on 18 October 2026 11:36 UTC. The name, street address (15920 S Rancho Sahuarita Blvd Ste 150, Sahuarita, AZ 85629), phone (520) 372-8477, the description "raspados, fruit snacks and smoothies; takeout and dine-in" and the Facebook link are from the business's Facebook page https://www.facebook.com/people/Jungle-Fruit-Raspados/61557392878876/ (checked 17 October 2026). The same name, address and phone and the category "smoothie shop" appear on the Google listing (re-checked 18 October 2026). The menu categories raspados, obispos, fruit waters, cold-pressed juice and spicy snacks are from the menu page of the junglefruitsahuarita.com website (checked 17 October 2026; that website matches the business by name, address, phone and product branding). Not shown: opening hours, prices, individual menu items, ratings and reviews, and the business's own photos. All photos are illustrative CC0 stock images from StockSnap; they are not the food or drinks of Jungle Fruit Raspados.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chili: https://stocksnap.io/photo/A0M37HFB34
+- citrus: https://stocksnap.io/photo/P9M6WLW6QF
+- fruit: https://stocksnap.io/photo/4PMQRDQ65P
+- smoothie: https://stocksnap.io/photo/4L8M6ANLZL
+- watermelon: https://stocksnap.io/photo/PXYZABNWNW
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
