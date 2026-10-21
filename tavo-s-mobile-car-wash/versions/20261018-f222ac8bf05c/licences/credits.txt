@@ -1,0 +1,25 @@
+Tavo’s Mobile Car Wash - website preview, version 20261018-f222ac8bf05c (18 October 2026)
+Prepared by Anytime Software. Not the official website of Tavo’s Mobile Car Wash; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-e65f070f4186b3cb0a8b74b5 (checked 17 October 2026 20:55 UTC) and a Google Maps re-check on 18 October 2026 11:35 UTC. The name, the service area (Yuma, Arizona; mobile service), the category (car wash) and the phone (928) 615-0210 are from the Google Maps listing for Tavo’s Mobile Car Wash in Yuma (checked 17 October 2026, re-checked 18 October 2026). The services (Exterior wash, Interior cleaning, Detailing, Wax and protection, Engine bay cleaning; "call for availability") are from the business's own Facebook post (checked 17 October 2026). Current operation: the business's own mobile-wash post of 10 October 2026 and the open Google listing. The Facebook link https://www.facebook.com/tavo.vp.52924 is the business's profile as recorded in the packet. Left out on purpose: any street address (mobile service; only the town is shown, with no map link or postcode), prices and offers (they may change), hours (appointment based, not verified), email (not verified), ratings and reviews, and the business's own photos (rights unknown). All photos are illustrative CC0 stock images from StockSnap; they are not Tavo's Mobile Car Wash's vehicles, equipment, work or customers.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- desert: https://stocksnap.io/photo/DH9VTNUICA
+- drops: https://stocksnap.io/photo/KBR7UZSKDT
+- interior: https://stocksnap.io/photo/SF6UIKA8HT
+- road: https://stocksnap.io/photo/LM2EAR3IMY
+- shine: https://stocksnap.io/photo/OTYLJFHR4H
+- wheel: https://stocksnap.io/photo/1DB42CFC76
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
