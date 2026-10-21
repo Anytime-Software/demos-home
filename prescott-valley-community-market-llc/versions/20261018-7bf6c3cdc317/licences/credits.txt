@@ -1,0 +1,24 @@
+Prescott Valley Community Market, LLC - website preview, version 20261018-7bf6c3cdc317 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Prescott Valley Community Market, LLC; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Facts on this page come from the research packet for lead ws-inventory-01aa0733331f8a2c32f75bcb (checked 17 October 2026 20:08 UTC) and a Google Maps re-check on 18 October 2026 11:35 UTC. The name, the address 7210 E Pav Way, Prescott Valley, AZ 86314 and the phone (520) 404-0358 are from the Google Maps listing for Prescott Valley Community Market, LLC (checked 17 October 2026, re-checked 18 October 2026, category market). The description "community market hosting local artisans, makers and food vendors" is from the business's Facebook post (checked 17 October 2026); the market's own posts of 17 October 2026 give the same 7210 E Pav Way location. The Facebook link https://www.facebook.com/AZPVCM is the business's page as recorded in the packet. Left out on purpose: market days, opening hours and event details (hours are seasonal and differ; current updates are on Facebook), vendor fees and prices (they change), other contact routes (this preview has no email route), older or unverified addresses, an old social link that is not valid, the deleted former website, ratings and reviews, vendor applications or any other submission, and the business's own photos. All photos are illustrative CC0 stock images from StockSnap; they are not Prescott Valley Community Market, its vendors, their goods or visitors.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- crafts: https://stocksnap.io/photo/FOJAKAHGFY
+- path: https://stocksnap.io/photo/0JOFWQX4N0
+- produce: https://stocksnap.io/photo/37DTDTYBW5
+- stalls: https://stocksnap.io/photo/AA39511B59
+- veg: https://stocksnap.io/photo/KZ19NV9MVY
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
