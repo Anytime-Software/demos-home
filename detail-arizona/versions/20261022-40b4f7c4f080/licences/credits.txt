@@ -1,0 +1,39 @@
+Detail Arizona - website preview, version 20261022-40b4f7c4f080 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Detail Arizona; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name (Detail Arizona), email DetailingArizona@gmail.com, phone (602) 633-5821 and the booking page link
+https://royaldetailing2019.wixsite.com/website/booking-page: the business's own website
+https://royaldetailing2019.wixsite.com/website (research checked 22 October 2026). Services (Car wash, Auto detailing,
+Paint correction, Ceramic coatings): the website's services page
+https://royaldetailing2019.wixsite.com/website/our-services-detail-arizona-auto-detailing (checked 22 October 2026).
+Based in Surprise, Arizona, and described as a small auto-detailing business offering personalized services: the
+website's about page https://royaldetailing2019.wixsite.com/website/more-info (checked 22 October 2026). The name and
+phone also match the business's Google listing. The email address has not been sent to or tested, the phone number has
+not been called, and nothing has been booked through the booking page.
+Left out until the business confirms them: a street address (none confirmed), hours (the website and the Google
+listing differ), prices, ratings and reviews, qualifications and years in business, staff and owner names, the former
+brand name, an older social profile from earlier research (no confirmed link to this business) and the business's own
+photos and logo image (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/D3AFE4D6F8
+- contact: https://stocksnap.io/photo/G3UYYCGBTS
+- hero1: https://stocksnap.io/photo/F2NRD5G9I6
+- hero2: https://stocksnap.io/photo/KEPSFKGIL9
+- hero3: https://stocksnap.io/photo/AQPI3EKZ9E
+- interior: https://stocksnap.io/photo/RBWX63THW6
+- paint: https://stocksnap.io/photo/8MBNGUYS92
+- wash: https://stocksnap.io/photo/SEXSRO0DFS
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
