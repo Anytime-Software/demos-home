@@ -1,0 +1,32 @@
+Abby'sSalon y Barberia - website preview, version 20261022-b6a59ba2e48f (22 October 2026)
+Prepared by Anytime Software. Not the official website of Abby'sSalon y Barberia; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name (Abby'sSalon y Barberia, exactly as listed), category (beauty salon), street address (3431 W Bethany Home Rd,
+Phoenix, AZ 85017), phone (602) 253-4422 and the service "Hair salon services": Google listing
+https://www.google.com/maps/place/Abby%27sSalon+y+Barberia/data=!4m7!3m6!1s0x872b0df6ab542cd5:0xfaba925aa6d0caa3!8m2!3d33.5236918!4d-112.1332407
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/abbys_salon_/: found via
+https://www.google.com/search?q=Abbys+salon+barberia+Phoenix+Instagram; the indexed profile matches the same address
+and phone (checked 21 October 2026; medium confidence).
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, barber or other
+services beyond the one listed, email, staff names and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/KK1FWPTOEH
+- contact: https://stocksnap.io/photo/AXKFEL7HBL
+- group1: https://stocksnap.io/photo/X4A4FSCTBM
+- hero1: https://stocksnap.io/photo/SHE40GOPPL
+- hero2: https://stocksnap.io/photo/4BG0M37XLV
+- hero3: https://stocksnap.io/photo/QBROWUJASC
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
