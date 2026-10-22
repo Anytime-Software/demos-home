@@ -1,0 +1,32 @@
+City Cuts Barber Shop - website preview, version 20261022-b3f4e8830f9d (22 October 2026)
+Prepared by Anytime Software. Not the official website of City Cuts Barber Shop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name (City Cuts Barber Shop), category (barber shop), street address (3783 S 12th Ave, Tucson, AZ 85713),
+phone (520) 272-5494 and the service "Haircuts": Google listing
+https://www.google.com/maps/place/City+Cuts+Barber+Shop/data=!4m7!3m6!1s0x86d67a0a9be9716d:0xd890d91abebfe52d!8m2!3d32.1785062!4d-110.9765375
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/citycutstucson/: found via
+https://www.google.com/search?q=%22City%20Cuts%20Barber%20Shop%22%20Tucson%20website; the indexed profile matches the
+same address and phone (checked 21 October 2026; medium confidence).
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, services beyond the
+one listed, email, staff names and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/0JOFWQX4N0
+- contact: https://stocksnap.io/photo/KU3OHF5LS3
+- group1: https://stocksnap.io/photo/4Z13US1N8H
+- hero1: https://stocksnap.io/photo/MZITW22IJ4
+- hero2: https://stocksnap.io/photo/I1GV6WICCT
+- hero3: https://stocksnap.io/photo/69DA637D67
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
