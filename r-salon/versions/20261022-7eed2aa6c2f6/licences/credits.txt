@@ -1,0 +1,33 @@
+r Salon - website preview, version 20261022-7eed2aa6c2f6 (22 October 2026)
+Prepared by Anytime Software. Not the official website of r Salon; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (1940 E Camelback Rd, Phoenix, AZ 85016), services (Haircuts, Hair Color, Balayage,
+Extensions, Brazilian Blowout, Smoothing Treatments) and the booking route (call the front desk, or an existing
+independent stylist directly): the business's own website, hair page https://rsalonphx.com/hair/.
+Phone (602) 216-1616, the Instagram profile https://www.instagram.com/rsalonphx/ and the salon model (independent
+rental salon; stylists set their own prices and schedules): the business's own website, our story page
+https://rsalonphx.com/our-story/ (research checked 20 October 2026).
+Left out until the business confirms them: hours (the website footer and paragraph list different days), prices,
+ratings and reviews, stylist names, an email address and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/QWW0WE1KRZ
+- contact: https://stocksnap.io/photo/740WOT3LR8
+- group1: https://stocksnap.io/photo/7KQJTM0429
+- group2: https://stocksnap.io/photo/W3LQTILJNT
+- hero1: https://stocksnap.io/photo/2HEUUNACGX
+- hero2: https://stocksnap.io/photo/6QHJ61570D
+- hero3: https://stocksnap.io/photo/CGPGQOOQ4I
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
