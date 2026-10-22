@@ -1,0 +1,32 @@
+Jeannine La Belle Hair braiding - website preview, version 20261022-177b3f76e52f (22 October 2026)
+Prepared by Anytime Software. Not the official website of Jeannine La Belle Hair braiding; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, phone (602) 832-6083 and service (Hair braiding): Google listing
+https://www.google.com/maps/place/Jeannine+La+Belle+Hair+braiding/data=!4m7!3m6!1s0x872b0c2ee93796b3:0x72c514ab16d2b505!8m2!3d33.465963!4d-111.9919497!16s%2Fg%2F11fyzdz8ts!19sChIJs5Y36S4MK4cRBbXSFqsUxXI
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/jeanninelabellebraids/ (checked
+21 October 2026; same phone number). Street address 4132 E McDowell Rd, Ste 9, Phoenix, AZ 85008: Google listing,
+with the formatting confirmed against the business's own Instagram bio (checked 21 October 2026); a stray "4400,"
+prefix in the raw Google value is not supported by the business's own profile and is left out.
+Left out until the business confirms them: hours, prices, ratings, reviews and review quotations, braid style names,
+staff names, other accounts and phone numbers not owned by this business, directory listings, and the business's
+own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- cornrows: https://stocksnap.io/photo/VRV168MSBU
+- dark-rows: https://stocksnap.io/photo/66ZAKIC380
+- phone-braids: https://stocksnap.io/photo/HUJXWX58V4
+- plaits: https://stocksnap.io/photo/431S1ULA2F
+- two-braids: https://stocksnap.io/photo/16G87Z1MS1
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
