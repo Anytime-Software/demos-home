@@ -1,0 +1,32 @@
+Hermanos Barbershop - website preview, version 20261022-02b18133bc63 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Hermanos Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (1991 E Ajo Way #159, Tucson, AZ 85713), phone (520) 207-0619, the category "Barber shop" and the
+service "Haircuts": the business's Google listing
+https://www.google.com/maps/place/Hermanos+Barbershop/data=!4m7!3m6!1s0x86d67107aca6782f:0x2bfc2f97155fa15d!8m2!3d32.1796088!4d-110.9433536!16s%2Fg%2F11ss6gk63q!19sChIJL3imrAdx1oYRXaFfFZcv_Cs
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/hermanos_barber_shop_llc/: found through
+a Google search https://www.google.com/search?q=Hermanos%20Barbershop%20Tucson%20Instagram; the indexed profile matches
+the shop's phone and Tucson (checked 21 October 2026; profile not visited).
+Left out until the business confirms them: hours, ratings and reviews, prices, any online booking link, email, Facebook,
+staff and owner names, specific cut styles or other services, and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- clipper: https://stocksnap.io/photo/O6KYUCUFY4
+- comb: https://stocksnap.io/photo/A5M4RVGZKE
+- pegboard: https://stocksnap.io/photo/FOTXQJQPG0
+- shears: https://stocksnap.io/photo/R9YRHH2JQY
+- tools: https://stocksnap.io/photo/GZP9ZEQPFL
+- trim: https://stocksnap.io/photo/ASMG0XOU6M
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
