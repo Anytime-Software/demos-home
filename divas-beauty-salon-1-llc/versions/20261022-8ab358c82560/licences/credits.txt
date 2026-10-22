@@ -1,0 +1,33 @@
+Diva’s Beauty Salon 1 LLC - website preview, version 20261022-8ab358c82560 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Diva’s Beauty Salon 1 LLC; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name (DIVA'S BEAUTY SALON 1 LLC), street address (7614 W Indian School Rd, Phoenix, AZ 85033), phone (602) 293-3112
+and the category "Beauty salon": the business's Google listing
+https://www.google.com/maps/place/DIVA%27S+BEAUTY+SALON+1+LLC/data=!4m7!3m6!1s0x872b150c2346e203:0x9ca6e874c49c2cac!8m2!3d33.4953885!4d-112.2235951!16s%2Fg%2F11ghfhqd22!19sChIJA-JGIwwVK4cRrCycxHToppw
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/divas_beauty_salon1/ and the services
+"Hair coloring", "Balayage", "Perms" and "Haircuts": the salon's own Instagram posts as indexed by a Google search
+https://www.google.com/search?q=%22Diva%27s+Beauty+Salon%22+%227614%22+Instagram (checked 21 October 2026; the posts
+match the listing's name, address and phone).
+Left out until the business confirms them: hours, ratings and reviews, prices, any online booking link, email, Facebook,
+staff and owner names, other treatments, and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/NFNQO26OBC
+- color: https://stocksnap.io/photo/2XXA0XX9G0
+- contact: https://stocksnap.io/photo/0BZ1W3NNQK
+- hero1: https://stocksnap.io/photo/IJSBS0EFPO
+- hero2: https://stocksnap.io/photo/TLJ1TFAMYT
+- hero3: https://stocksnap.io/photo/40F3C7A6C0
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
