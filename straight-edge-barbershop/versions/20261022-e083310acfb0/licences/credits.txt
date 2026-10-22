@@ -1,0 +1,32 @@
+Straight Edge Barbershop - website preview, version 20261022-e083310acfb0 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Straight Edge Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (5704 E Broadway Blvd, Tucson, AZ 85711), phone (520) 396-3648, services (Haircut,
+Haircut + Beard, Haircut + Beard + Eyebrows, Kids Haircut 10 & under, Beard Trim, Hot Towel / Straight Razor Shave),
+hours (Mon closed, Tue-Fri 9am-6pm, Sat 9am-4pm, Sun closed), the Instagram profile
+https://www.instagram.com/straightedge_tucson/ and the Square booking page https://straightedgebarbershop.square.site/:
+the business's own website https://www.straightedgetucson.com/ (research checked 20 October 2026).
+Left out until the business confirms them: all prices (the website and the Square booking menu list different
+prices for three services), the email address, ratings and reviews, credentials, staff names and the business's
+own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- bulb: https://stocksnap.io/photo/H2XO3VUKKJ
+- cologne: https://stocksnap.io/photo/EU7N3R01MB
+- lamp: https://stocksnap.io/photo/41XIBQTX5B
+- neon: https://stocksnap.io/photo/IL2GSFO4W2
+- soap: https://stocksnap.io/photo/BAP2TUBT3D
+- taps: https://stocksnap.io/photo/WIFG1MZOKJ
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
