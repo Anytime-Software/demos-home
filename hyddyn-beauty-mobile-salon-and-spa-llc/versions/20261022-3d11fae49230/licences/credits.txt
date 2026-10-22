@@ -1,0 +1,34 @@
+Hyddyn Beauty Mobile Salon and Spa LLC - website preview, version 20261022-3d11fae49230 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Hyddyn Beauty Mobile Salon and Spa LLC; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (beauty salon) and service (Beauty salon services): Google listing
+https://www.google.com/maps/place/Hyddyn+Beauty+Mobile+Salon+and+Spa+LLC/data=!4m7!3m6!1s0x872b0fb6ce6608b1:0x2aa3570dd989ebb4!8m2!3d33.4043228!4d-112.0182901!16s%2Fg%2F11f6dkrv6r!19sChIJsQhmzrYPK4cRtOuJ2Q1Xoyo
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/hyddyn_beauty_mobile/ (checked
+21 October 2026), the only contact route shown. Mobile, in-home salon serving the Phoenix area: the business's own
+Instagram posts and profile (checked 21 October 2026). Braids, sew-ins and silk press: mentioned in the business's
+own Instagram posts (checked 21 October 2026; shown only as mentioned there).
+Left out on purpose: any phone number (the Google listing and the Instagram profile give two different numbers),
+the street address, postcode, map and directions (this is a mobile, in-home salon, not a salon to visit), booking
+links (not verified), hours, prices, ratings, reviews and review quotations, follower counts and ranking claims,
+staff names, and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- braid-buns: https://stocksnap.io/photo/DWSCQHDGOV
+- braiding: https://stocksnap.io/photo/05TQZ0ZT2Q
+- side-braid: https://stocksnap.io/photo/YFDG36LAZZ
+- spa-hands: https://stocksnap.io/photo/HOCHOH7BHJ
+- spa-stones: https://stocksnap.io/photo/ZCLKDUY2CZ
+- spa-towels: https://stocksnap.io/photo/PL9R5H2KKH
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
