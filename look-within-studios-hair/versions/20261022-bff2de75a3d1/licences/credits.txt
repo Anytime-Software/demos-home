@@ -1,0 +1,32 @@
+Look Within Studios Hair - website preview, version 20261022-bff2de75a3d1 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Look Within Studios Hair; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (beauty salon), street address (2103 S 6th Ave, Tucson, AZ 85713) and phone (520) 599-4420: Google
+listing https://www.google.com/maps/place/Look+Within+Studios+Hair/data=!4m7!3m6!1s0x86d67a7227ff7df5:0x378072efebea0499
+(research checked 21 October 2026). Service (hair styling) and email msubia1777@gmail.com: the business's Allbiz
+directory entry https://www.allbiz.com/business/look-within-studios-hair-520-599-4420 (same address and phone; checked
+21 October 2026). The email address has not been sent to or tested.
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, the Facebook page
+linked from the listing (not cleared for this preview), staff and owner names and the business's own photos (no reuse
+rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/EC5F968852
+- contact: https://stocksnap.io/photo/811926DC8B
+- group1: https://stocksnap.io/photo/WR1WDDIO5D
+- hero1: https://stocksnap.io/photo/FX90ZXYAND
+- hero2: https://stocksnap.io/photo/I9AW11TY89
+- hero3: https://stocksnap.io/photo/2A6E9NMC3B
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
