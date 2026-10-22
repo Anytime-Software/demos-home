@@ -1,0 +1,32 @@
+AZs Barbershop - website preview, version 20261022-e8f4fdb07b29 (22 October 2026)
+Prepared by Anytime Software. Not the official website of AZs Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (barber shop), location (E Speedway Blvd, Tucson, AZ 85712), phone (520) 372-8320 and the service
+(Haircuts): Google listing
+https://www.google.com/maps/place/AZs+Barbershop/data=!4m7!3m6!1s0x86d66faaae5782a1:0x1ba2d50e9bcaf139!8m2!3d32.2354735!4d-110.8759211
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/azsbarbershop1/: the business's indexed
+Instagram profile, found via https://www.google.com/search?q=AZs%20Barbershop%20Tucson%20Instagram (checked 21 October 2026;
+medium confidence; it matches the listing phone). The street number and suite are not shown: the Google listing and the
+Instagram profile give different ones, so they are left out until the business confirms the exact address.
+Left out until the business confirms them: the street number and suite, hours, ratings and reviews, prices, the booking
+link, email, staff names and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- bottles: https://stocksnap.io/photo/CTB6WIFW9E
+- cage: https://stocksnap.io/photo/CRCO0JJPRU
+- chair: https://stocksnap.io/photo/VY41DND4ZQ
+- lamps: https://stocksnap.io/photo/TYUJHJEZGO
+- scissors: https://stocksnap.io/photo/XBODKG1KPM
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
