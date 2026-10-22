@@ -1,0 +1,32 @@
+Sun City Tattoo - website preview, version 20261018-e37f6c8d97f9 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Sun City Tattoo; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (9421 W Bell Rd #106, Sun City, AZ 85351), phone (480) 849-4789 and category (tattoo shop):
+the business's Google Maps listing (research checked 17 October 2026; listing re-checked 18 October 2026). The
+service shown (Tattoo work, with the invitation to ask about design and appointment availability) comes from a public
+Facebook video posted by the shop on 23 June 2024 (checked 17 October 2026); no separate service list was sourced.
+Facebook page link (the page the contact buttons open): the shop's Facebook page, matched to this business by its
+phone number and the Sun City Tattoo brand in the shop's own video (checked 17 October 2026).
+Not shown: details that are not confirmed for this preview (such as hours, prices, reviews, email, Instagram
+and the business's own photos and artwork).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- desk: https://stocksnap.io/photo/E8VATIYGAF
+- ink: https://stocksnap.io/photo/QXTFJRXTKR
+- pencils: https://stocksnap.io/photo/0P6FVF3Q5L
+- saguaro: https://stocksnap.io/photo/6RNPBMUXYQ
+- sky: https://stocksnap.io/photo/4CFEQ31RGY
+- sun: https://stocksnap.io/photo/361RIRYBL8
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
