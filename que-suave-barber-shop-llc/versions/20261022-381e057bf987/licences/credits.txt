@@ -1,0 +1,33 @@
+Que Suave Barber Shop LLC - website preview, version 20261022-381e057bf987 (18 October 2026)
+Prepared by Anytime Software. Not the official website of Que Suave Barber Shop LLC; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (1855 W Corona Ave, Phoenix, AZ 85041) and the category "Barber shop": the business's Google listing
+https://www.google.com/maps/place/Que+Suave+Barber+Shop+LLC/data=!4m7!3m6!1s0x872b119cff556c21:0x2bf77802dd79b347!8m2!3d33.40536!4d-112.0988846!16s%2Fg%2F11g1grhmpd!19sChIJIWxV_5wRK4cRR7N53QJ49ys
+(research checked 21 October 2026). Phone (602) 576-7532 and Instagram profile
+https://www.instagram.com/quesuavebarbershop2018/: attributed to the shop in an owner interview podcast episode
+https://music.amazon.in/podcasts/6192e9f7-f3a5-4d22-b2d5-25a11ac596f5/episodes/858a7a94-3306-4173-b164-4127e949475a/connect-with-christina-from-tacos-to-barbershops-taxes-que-suave%E2%80%99s-south-phoenix-success-story-abe-calvillo---ep-80
+(checked 21 October 2026). Services "Barbering", "Haircuts", "Beard trim" and "Head shave": the business's Fresha page
+https://www.fresha.com/lvp/que-suave-barber-shop-llc-west-corona-avenue-phoenix-Rv18EM (checked 21 October 2026).
+Left out until the business confirms them: hours (directories disagree), ratings and reviews, prices, any online booking
+link, email, Facebook, staff and owner names, specific cut styles or other services, and the business's own photos
+(no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chairs: https://stocksnap.io/photo/KEFSBGNT07
+- leather: https://stocksnap.io/photo/93C91C28E5
+- scissors: https://stocksnap.io/photo/0HN1BCS4BI
+- shears: https://stocksnap.io/photo/6TAYV32JP1
+- towels: https://stocksnap.io/photo/6G6F0R60R3
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
