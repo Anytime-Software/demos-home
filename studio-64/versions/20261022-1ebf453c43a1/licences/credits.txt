@@ -1,0 +1,33 @@
+Studio 64 - website preview, version 20261022-1ebf453c43a1 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Studio 64; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (hair salon), street address (9024 W Thomas Rd, Phoenix, AZ 85037) and phone (623) 872-2732: Google
+listing https://www.google.com/maps/place/Studio+64/data=!4m7!3m6!1s0x872b3feeefe8eab5:0x926d5bdb76d17484 (research
+checked 21 October 2026). The three services (hair styling, barbering, hair coloring): Google search results for
+"Studio 64" Phoenix https://www.google.com/search?q=%22Studio+64%22+Phoenix+website (checked 21 October 2026).
+Instagram profile https://www.instagram.com/studio64_usa/: found through a Google search; the indexed profile names
+Studio 64 Phoenix and the same phone (checked 21 October 2026). The phone has not been called and no message has
+been sent.
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, staff and owner names
+and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- beard: https://stocksnap.io/photo/XG6OE0OXGH
+- breeze: https://stocksnap.io/photo/PC1DH3QF9K
+- bun: https://stocksnap.io/photo/D6L9UGDE02
+- curls: https://stocksnap.io/photo/XRSSOOLHTU
+- neon: https://stocksnap.io/photo/BYJO5BAWIT
+- waves: https://stocksnap.io/photo/85WTYTFN2X
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
