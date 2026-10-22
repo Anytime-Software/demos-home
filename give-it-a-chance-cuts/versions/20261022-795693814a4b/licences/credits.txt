@@ -1,0 +1,32 @@
+Give It A Chance Cuts - website preview, version 20261022-795693814a4b (22 October 2026)
+Prepared by Anytime Software. Not the official website of Give It A Chance Cuts; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (4723 S 12th Ave, Tucson, AZ 85714), phone (520) 279-4446, the category "Barber shop" and the
+service "Haircuts": the business's Google listing
+https://www.google.com/maps/place/Give+It+A+Chance+Cuts/data=!4m7!3m6!1s0x86d67bb8c5aa21cb:0xab22d576d0cbd37!8m2!3d32.166418!4d-110.9772578!16s%2Fg%2F11wqgpw5yr!19sChIJyyGqxbh71oYRN70MbVctsgo
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/give_it_a_chance_cuts/: found through
+a Google search https://www.google.com/search?q=Give%20It%20A%20Chance%20Cuts%20Tucson%20Instagram; the indexed profile and
+posts match the shop's address (checked 21 October 2026; profile not visited).
+Left out until the business confirms them: hours, ratings and reviews, prices, any online booking link, email, Facebook,
+a second phone number seen on the Instagram profile, staff and owner names, specific cut styles or other services, and
+the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- brick: https://stocksnap.io/photo/M9Q1QVQ9B9
+- bulb: https://stocksnap.io/photo/N2INNG10SN
+- bulbs: https://stocksnap.io/photo/L8VFY1GTLF
+- lantern: https://stocksnap.io/photo/5G5M6RAM4G
+- street: https://stocksnap.io/photo/V3UFWFPRY6
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
