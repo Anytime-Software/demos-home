@@ -1,0 +1,33 @@
+Menixas - website preview, version 20261022-a8b796b27635 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Menixas; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (beauty salon), street address (6118 N 27th Ave, Phoenix, AZ 85017), phone (602) 200-4437 and the
+three services (hair extensions, hairstyling, makeup): Google listing
+https://www.google.com/maps/place/Menixas/data=!4m7!3m6!1s0x872b133512352c67:0x88c8e2ca1ac746bd (research checked
+21 October 2026). Instagram profile https://www.instagram.com/menixas_beauty/: found through a Google search for the
+business; the profile shows the same address and phone (checked 21 October 2026). The phone has not been called and
+no message has been sent.
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, staff and owner names
+and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- brushes: https://stocksnap.io/photo/PZ0Z7K0JRR
+- compact: https://stocksnap.io/photo/J5SNYQ3FQK
+- curlers: https://stocksnap.io/photo/R6CKAMVOMZ
+- dryer: https://stocksnap.io/photo/D5CG6JAYN3
+- long: https://stocksnap.io/photo/8JJL0GL391
+- palette: https://stocksnap.io/photo/34MSYVUYS0
+- salon: https://stocksnap.io/photo/0AA03E91E8
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
