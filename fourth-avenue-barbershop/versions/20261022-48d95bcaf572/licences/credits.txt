@@ -1,0 +1,31 @@
+Fourth Avenue Barbershop - website preview, version 20261022-48d95bcaf572 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Fourth Avenue Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (553 N 4th Ave, Tucson, AZ 85705), services (Haircuts, Haircut and Beard, Beard Trim, Shave),
+the Instagram profile https://www.instagram.com/fourthavebarbershop/ and the booking page itself: the business's
+Booksy page https://booksy.com/en-us/160088_4th-avenue-barbershop-on-downtown-tucson_barber-shop_14795_tucson
+(research checked 20 October 2026). Phone (520) 409-8248: the Fourth Avenue merchant listing
+https://fourthavenue.org/merchant-listings/fourth-avenue-barbershop/ (research checked 20 October 2026).
+Left out until the business confirms them: opening hours (the Booksy page and the merchant listing give different
+Friday closing times), all prices, the suite number shown on the map listing, ratings and reviews, staff names and
+the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chair: https://stocksnap.io/photo/7M505B7MYV
+- frames: https://stocksnap.io/photo/0UGJSGMQJL
+- sink: https://stocksnap.io/photo/D3901L7G93
+- snip: https://stocksnap.io/photo/S7UEWWIRTD
+- soap: https://stocksnap.io/photo/AULHEZDSCC
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
