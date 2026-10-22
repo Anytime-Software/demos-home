@@ -1,0 +1,31 @@
+West Cutz - website preview, version 20261022-961c4027dae5 (22 October 2026)
+Prepared by Anytime Software. Not the official website of West Cutz; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (4733 W Thomas Rd, Phoenix, AZ 85031) and phone (480) 845-7598: Google listing
+https://www.google.com/maps/place/West+Cutz/data=!4m7!3m6!1s0x872b1513f1041e27:0x217fb02d4d6e7440!8m2!3d33.4801489!4d-112.1611318
+(research checked 21 October 2026). Services (Barbering, Haircuts) and the Instagram profile
+https://www.instagram.com/west_cutz_/: the business's indexed Instagram profile and posts, found via
+https://www.google.com/search?q=%22West+Cutz%22+Phoenix+Instagram (checked 21 October 2026; medium confidence).
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, email, staff names
+and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- brush: https://stocksnap.io/photo/16O52Y3YQV
+- chair: https://stocksnap.io/photo/CUU5N8RB4L
+- mirror: https://stocksnap.io/photo/JRHSFSKQZQ
+- scissors: https://stocksnap.io/photo/1PJVDMCFWS
+- towels: https://stocksnap.io/photo/7T182PH857
+- upholstery: https://stocksnap.io/photo/5RHOPPFZWF
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
