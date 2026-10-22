@@ -1,0 +1,33 @@
+Margot's Hair Studio - website preview, version 20261022-7b6ce8e8d9af (22 October 2026)
+Prepared by Anytime Software. Not the official website of Margot's Hair Studio; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (hair salon), street address (3061 S Kinney Rd, Tucson, AZ 85713) and phone (520) 883-3492: Google
+listing https://www.google.com/maps/place/Margot%27s+Hair+Studio/data=!4m7!3m6!1s0x86d677d8ae56c08d:0xd1193a58d9b11858
+(research checked 21 October 2026). Services (Haircuts, Coloring, Perms, Styling, Prom and wedding styling) and email
+hstudio3061@gmail.com: the business's Nextdoor page https://nextdoor.com/pages/margots-hairstudio-tucson-az/ (same
+address and phone; checked 21 October 2026). The email address has not been sent to or tested.
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link (the appointment page
+linked from the listing is not cleared for this preview), staff and owner names and the business's own photos (no
+reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/7ERSUGQ4Z9
+- contact: https://stocksnap.io/photo/XIEZSFATU3
+- group1: https://stocksnap.io/photo/DXYWXU6JLU
+- group2: https://stocksnap.io/photo/Y72F5HF9PT
+- hero1: https://stocksnap.io/photo/OBYUXFZAIA
+- hero2: https://stocksnap.io/photo/D40LVNV6BH
+- hero3: https://stocksnap.io/photo/HDZE2J2VNL
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
