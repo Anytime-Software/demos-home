@@ -1,0 +1,29 @@
+La Familia Barbershop - website preview, version 20261022-1ae99e7cd165 (22 October 2026)
+Prepared by Anytime Software. Not the official website of La Familia Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (59 E Pennington St, Tucson, AZ 85701) and phone (520) 203-8268: Google listing
+https://www.google.com/maps/place/La+Familia+Barbershop/data=!4m7!3m6!1s0x86d67b65be0664a9:0x9cf057616114c4c!8m2!3d32.2231908!4d-110.9703806
+(research checked 21 October 2026). Services (Haircuts, Fades, Beard trims) and the Instagram profile
+https://www.instagram.com/la.familia.barbershop/: the Downtown Tucson Partnership business listing
+https://downtowntucson.org/go/la-familia-barbershop (checked 21 October 2026; medium confidence).
+Left out until the business confirms them: hours, ratings and reviews, prices, the booking page (no confirmed link),
+email, staff names and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- brick: https://stocksnap.io/photo/HMC7PJRYZO
+- bulb: https://stocksnap.io/photo/AE0420D47C
+- fade: https://stocksnap.io/photo/W5T564U6YN
+- shave: https://stocksnap.io/photo/NR1P43DL18
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
