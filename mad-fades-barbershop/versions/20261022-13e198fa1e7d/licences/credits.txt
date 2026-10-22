@@ -1,0 +1,31 @@
+Mad Fades Barbershop - website preview, version 20261022-13e198fa1e7d (22 October 2026)
+Prepared by Anytime Software. Not the official website of Mad Fades Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (barber shop), location (4555 S 12th Ave Ste 151, Tucson, AZ 85714), phone (520) 771-8796 and the
+service (Haircuts): Google listing
+https://www.google.com/maps/place/Mad+Fades+Barbershop/data=!4m7!3m6!1s0x86d67b6e7fa68b27:0xe41c61f6c6f9b220!8m2!3d32.1688444!4d-110.9771213
+(research checked 21 October 2026). The listing writes the suite as "suit 151"; it is shown here as "Ste 151".
+Instagram profile https://www.instagram.com/mad_fades_barbershop/: the business's indexed Instagram profile, found via
+https://www.google.com/search?q=Mad%20Fades%20Barbershop%20Tucson%20Instagram (checked 21 October 2026; medium
+confidence; its indexed post matches the 4555 S 12th Ave suite 151 address).
+Left out until the business confirms them: hours, ratings and reviews, prices, the booking links, email, staff names
+and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- door: https://stocksnap.io/photo/EYN3DM1OU2
+- jars: https://stocksnap.io/photo/KDVCHV96JA
+- neon: https://stocksnap.io/photo/05JCAOWT0B
+- tools: https://stocksnap.io/photo/0E83D47E18
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
