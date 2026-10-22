@@ -1,0 +1,35 @@
+Gentlemen’s Cuts Barbershop - website preview, version 20261022-948f4be6bb0d (22 October 2026)
+Prepared by Anytime Software. Not the official website of Gentlemen’s Cuts Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (7980 N 51st Ave #103, Glendale, AZ 85301), phone (623) 915-5859 and the category "Barber shop":
+the business's Google listing
+https://www.google.com/maps/place/Gentlemen%E2%80%99s+Cuts+Barbershop/@33.5524031,-112.4093257,12z/data=!3m1!5s0x872b6b0af0a47a27:0x34184aca036725d6!4m10!1m2!2m1!1sbarbershops+in+Glendale,+Arizona!3m6!1s0x872b6b0af0a8a9b1:0x3c84e35f2948cc48!8m2!3d33.55179!4d-112.169429!15sCiBiYXJiZXJzaG9wcyBpbiBHbGVuZGFsZSwgQXJpem9uYVohIh9iYXJiZXJzaG9wcyBpbiBnbGVuZGFsZSBhcml6b25hkgELYmFyYmVyX3Nob3CaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnRSZWs1R1VsRllNbHBYVDFWMGNGUXdiREJqTUhSRFlqSndXbUl6WXhBQuABAPoBBAgAEEI!16s%2Fg%2F11bccjqwxr?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D
+corroborated by the business's Squire booking page (research checked 20 October 2026). Services "Haircuts", "Fades",
+"Beard trims" and "Kids haircuts" and the booking link: the business's Squire pages
+https://online.getsquire.com/book/gentlemen-cuts-barber-shop-new-glendale/professional and
+https://getsquire.com/discover/barbershop/gentlemens-cuts-barbershop-glendale (checked 20 October 2026; nothing was booked).
+Instagram profile https://www.instagram.com/gentlemen_cuts1/: linked to the same Squire booking page and listed with the
+same phone and address in a directory (checked 20 October 2026).
+Left out until the business confirms them: opening hours (not established), ratings and reviews, prices, staff names,
+any other domain or website, and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chair: https://stocksnap.io/photo/6K0ATYBCAQ
+- lights: https://stocksnap.io/photo/3VV6ZP3NY8
+- mirror: https://stocksnap.io/photo/0YOSUT5G0P
+- open: https://stocksnap.io/photo/A8Y490YFFX
+- razor: https://stocksnap.io/photo/06HGN8LMUX
+- scissors: https://stocksnap.io/photo/N0HGOV149H
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
