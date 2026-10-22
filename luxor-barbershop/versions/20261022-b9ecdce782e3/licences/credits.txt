@@ -1,0 +1,33 @@
+Luxor Barbershop - website preview, version 20261022-b9ecdce782e3 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Luxor Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address (5923 E 22nd St, Tucson, AZ 85711), phone (520) 484-6020, the category "Barber shop" and the
+service "Haircuts": the business's Google listing
+https://www.google.com/maps/place/Luxor+Barbershop/data=!4m7!3m6!1s0x86d66f68a9855055:0x5ff937d66c161d0d!8m2!3d32.2073012!4d-110.8662119!16s%2Fg%2F11vcm_1wk3!19sChIJVVCFqWhv1oYRDR0WbNY3-V8
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/luxorbarbershop2023/: found through
+the Google search https://www.google.com/search?q=Luxor+Barbershop+Tucson+Instagram (checked 21 October 2026; the
+indexed profile matches the street address and the Google listing phone).
+Left out until the business confirms them: hours, ratings and reviews, prices, any online booking link, email, staff
+names, specific cut styles or other services, the different phone number shown on the Instagram profile (noted as a
+typo; the Google listing number is used) and the business's own photos (no reuse rights).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- chair: https://stocksnap.io/photo/LXHT4NZZ9J
+- mirror: https://stocksnap.io/photo/MV6XJEPOIF
+- open: https://stocksnap.io/photo/9AVY8XAD5I
+- scissors: https://stocksnap.io/photo/E6IP9VDDDM
+- shears: https://stocksnap.io/photo/DXPPJOEVZP
+- towel: https://stocksnap.io/photo/7MEPFLTQWM
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
