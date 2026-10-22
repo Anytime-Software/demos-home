@@ -1,0 +1,33 @@
+Laura Beauty Salon - website preview, version 20261022-b015cb4a0dd5 (22 October 2026)
+Prepared by Anytime Software. Not the official website of Laura Beauty Salon; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, category (beauty salon), street address (2511 E Bell Rd Ste 120, Phoenix, AZ 85032) and phone (602) 314-5602:
+Google listing
+https://www.google.com/maps/place/Laura+Beauty+Salon/data=!4m7!3m6!1s0x872b716e6e3975d9:0x39a860ff6b4280a0!8m2!3d33.6398751!4d-112.0281688!16s%2Fg%2F11gnp4s5z2!19sChIJ2XU5bm5xK4cRoIBCa_9gqDk
+(research checked 21 October 2026). Instagram profile https://www.instagram.com/beautysalon.bylaura/: matched to the
+salon by the same address and phone via https://www.google.com/search?q=Laura+Beauty+Salon+2511+Bell+website
+(checked 21 October 2026; medium confidence). Services (Hair salon services, Barber services): the business's
+Instagram profile https://www.instagram.com/beautysalon.bylaura/ (checked 21 October 2026; medium confidence).
+Left out until the business confirms them: hours, ratings and reviews, prices, any booking link, email, staff names
+and the business's own photos (not cleared for publication).
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/9PV3EN4MKG
+- contact: https://stocksnap.io/photo/KRF1GA5BP6
+- group1: https://stocksnap.io/photo/TLJ1TFAMYT
+- hero1: https://stocksnap.io/photo/0BZ1W3NNQK
+- hero2: https://stocksnap.io/photo/N3KQANR4GO
+- hero3: https://stocksnap.io/photo/IJSBS0EFPO
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
