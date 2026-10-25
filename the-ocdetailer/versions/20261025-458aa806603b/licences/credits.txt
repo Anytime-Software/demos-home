@@ -1,0 +1,26 @@
+The O.C.Detailer - website preview, version 20261025-458aa806603b (25 October 2026)
+Prepared by Anytime Software. Not the official website of The O.C.Detailer; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, phone and services: its Square booking page https://theocdetailer.square.site/ (research checked 23 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/39YYILK2JA
+- contact: https://stocksnap.io/photo/4EE718D7D9
+- group1: https://stocksnap.io/photo/G3UYYCGBTS
+- hero1: https://stocksnap.io/photo/U7AV8UBKGL
+- hero2: https://stocksnap.io/photo/SEXSRO0DFS
+- hero3: https://stocksnap.io/photo/HMRWTT0XQN
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
