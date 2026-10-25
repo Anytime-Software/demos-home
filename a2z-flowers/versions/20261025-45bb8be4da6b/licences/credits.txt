@@ -1,0 +1,26 @@
+A2Z Flowers - website preview, version 20261025-45bb8be4da6b (25 October 2026)
+Prepared by Anytime Software. Not the official website of A2Z Flowers; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Facebook page https://www.facebook.com/A2ZFlowersGilbert/; the business's Google listing https://www.google.com/maps/place/A2Z+Flowers/@33.3428777,-111.7852911,17z/data=!3m1!4b1!4m6!3m5!1s0x872baf28fc78819f:0x4d86be316ed119b9!8m2!3d33.3428777!4d-111.7852911!16s%2Fg%2F1tcylhwn; the business's Instagram profile https://www.instagram.com/a2zflowersgilbert/ (research checked 22 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/SQ5K21MTCU
+- contact: https://stocksnap.io/photo/IHJHQBRSFV
+- group1: https://stocksnap.io/photo/0XANHS5ZKW
+- hero1: https://stocksnap.io/photo/N9DP57J7DO
+- hero2: https://stocksnap.io/photo/DV4E9MRXO5
+- hero3: https://stocksnap.io/photo/Q6DNCXRCKM
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
