@@ -1,0 +1,27 @@
+5 Star Mobile Detail / 5 star detail - website preview, version 20261025-1deccf512921 (25 October 2026)
+Prepared by Anytime Software. Not the official website of 5 Star Mobile Detail / 5 star detail; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: its Setmore booking page https://5starmobiledetail.setmore.com/ (research checked 23 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/F9DAD7FE79
+- contact: https://stocksnap.io/photo/D3AFE4D6F8
+- group1: https://stocksnap.io/photo/4RHOB6RC3S
+- group2: https://stocksnap.io/photo/MBGMKPIOHZ
+- hero1: https://stocksnap.io/photo/AQPI3EKZ9E
+- hero2: https://stocksnap.io/photo/369D8C305A
+- hero3: https://stocksnap.io/photo/84899ED96C
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
