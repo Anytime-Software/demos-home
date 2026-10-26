@@ -1,0 +1,26 @@
+Milla's Hair Salon - website preview, version 20261026-4fc9f7734db2 (26 October 2026)
+Prepared by Anytime Software. Not the official website of Milla's Hair Salon; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Google listing https://www.google.com/maps/place/Milla's+Hair+Salon/@33.5225064,-112.456913,11z/data=!3m1!5s0x872b6b504f429ea9:0x9c638dc8c1140aef!4m10!1m2!2m1!1shair+salons+in+Glendale,+Arizona!3m6!1s0x872b6b5101e47393:0x77f1c9037998e3f7!8m2!3d33.522521!4d-112.152043!15sCiBoYWlyIHNhbG9ucyBpbiBHbGVuZGFsZSwgQXJpem9uYVohIh9oYWlyIHNhbG9ucyBpbiBnbGVuZGFsZSBhcml6b25hkgEKaGFpcl9zYWxvbpoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycGFjMWRIV1hwTlNGRjVWREJzVms1VldqWk1WVGxVVlZZNGRHSlZSUkFC4AEA-gEFCLoBED4!16s%2Fg%2F1thmlg75?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D; the business's own website https://millashairsalon.com/ (research checked 20 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/05JCAOWT0B
+- contact: https://stocksnap.io/photo/BAP2TUBT3D
+- group1: https://stocksnap.io/photo/0YOSUT5G0P
+- hero1: https://stocksnap.io/photo/WIFG1MZOKJ
+- hero2: https://stocksnap.io/photo/CTB6WIFW9E
+- hero3: https://stocksnap.io/photo/XVEZZZGCXA
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
