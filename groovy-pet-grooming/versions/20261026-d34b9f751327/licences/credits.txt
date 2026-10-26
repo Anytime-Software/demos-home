@@ -1,0 +1,26 @@
+Groovy Pet Grooming - website preview, version 20261026-d34b9f751327 (26 October 2026)
+Prepared by Anytime Software. Not the official website of Groovy Pet Grooming; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Google listing https://www.google.com/maps/search/Groovy%20Pet%20Grooming%20Mesa%20%2B14809245711; the business's own website https://www.bbb.org/us/az/mesa/profile/pet-grooming/groovy-pet-grooming-llc-1126-1000049227; the business's Instagram profile https://www.instagram.com/groovypetgrooming/ (research checked 23 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/K00RNBNJGC
+- contact: https://stocksnap.io/photo/EXKVSL1OHJ
+- group1: https://stocksnap.io/photo/IJSBS0EFPO
+- hero1: https://stocksnap.io/photo/EYN3DM1OU2
+- hero2: https://stocksnap.io/photo/KU3OHF5LS3
+- hero3: https://stocksnap.io/photo/JRHSFSKQZQ
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
