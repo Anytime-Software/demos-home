@@ -1,0 +1,26 @@
+Give It A Chance Cuts - website preview, version 20261026-67c1019c20fc (26 October 2026)
+Prepared by Anytime Software. Not the official website of Give It A Chance Cuts; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Google listing https://www.google.com/maps/place/Give+It+A+Chance+Cuts/data=!4m7!3m6!1s0x86d67bb8c5aa21cb:0xab22d576d0cbd37!8m2!3d32.166418!4d-110.9772578!16s%2Fg%2F11wqgpw5yr!19sChIJyyGqxbh71oYRN70MbVctsgo; the business's own website https://www.google.com/search?q=Give%20It%20A%20Chance%20Cuts%20Tucson%20Instagram (research checked 21 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/S7UEWWIRTD
+- contact: https://stocksnap.io/photo/P71KBK4NFS
+- group1: https://stocksnap.io/photo/I1GV6WICCT
+- hero1: https://stocksnap.io/photo/L8VFY1GTLF
+- hero2: https://stocksnap.io/photo/4LIK5IXY7K
+- hero3: https://stocksnap.io/photo/CXH58XHXTI
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
