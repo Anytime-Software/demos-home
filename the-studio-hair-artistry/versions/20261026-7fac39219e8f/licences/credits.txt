@@ -1,0 +1,28 @@
+The Studio Hair Artistry - website preview, version 20261026-7fac39219e8f (26 October 2026)
+Prepared by Anytime Software. Not the official website of The Studio Hair Artistry; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Google listing https://www.google.com/maps/place/The+Studio+Hair+Artistry/@32.2218934,-111.0864295,12z/data=!4m10!1m2!2m1!1shair+salon+Tucson+Arizona!3m6!1s0x86d671cc3c73b8ad:0x8107d8fdbabbede0!8m2!3d32.2218934!4d-110.9339942!15sChloYWlyIHNhbG9uIFR1Y3NvbiBBcml6b25hWhsiGWhhaXIgc2Fsb24gdHVjc29uIGFyaXpvbmGSAQpoYWlyX3NhbG9umgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU0xTTI4eVpWUlJFQUXgAQD6AQQIABA_!16s%2Fg%2F1hd_4ss29?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D; the business's own website https://www.thestudiotucson.com/contact (research checked 20 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/PC1DH3QF9K
+- contact: https://stocksnap.io/photo/XIEZSFATU3
+- group1: https://stocksnap.io/photo/PL9R5H2KKH
+- group2: https://stocksnap.io/photo/KRF1GA5BP6
+- group3: https://stocksnap.io/photo/QWW0WE1KRZ
+- hero1: https://stocksnap.io/photo/HOCHOH7BHJ
+- hero2: https://stocksnap.io/photo/40F3C7A6C0
+- hero3: https://stocksnap.io/photo/VMRKBKSM2Q
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
