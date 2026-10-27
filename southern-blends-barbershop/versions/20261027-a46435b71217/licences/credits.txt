@@ -1,0 +1,26 @@
+Southern Blends Barbershop - website preview, version 20261027-a46435b71217 (27 October 2026)
+Prepared by Anytime Software. Not the official website of Southern Blends Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Google listing https://www.google.com/maps/place/Southern+Blends+Barbershop/data=!4m7!3m6!1s0x86d671a4b7c025eb:0xfe156332b0dcfb8d!8m2!3d32.1888779!4d-110.9696039!16s%2Fg%2F11xzv8tgbn!19sChIJ6yXAt6Rx1oYRjfvcsDJjFf4; the business's own website https://www.google.com/search?q=Southern%20Blends%20Barbershop%20Tucson%20Instagram (research checked 21 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/K5HZQ7WKUV
+- contact: https://stocksnap.io/photo/5RHOPPFZWF
+- group1: https://stocksnap.io/photo/0KJMGQYA2T
+- hero1: https://stocksnap.io/photo/MV6XJEPOIF
+- hero2: https://stocksnap.io/photo/MZITW22IJ4
+- hero3: https://stocksnap.io/photo/CUU5N8RB4L
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
