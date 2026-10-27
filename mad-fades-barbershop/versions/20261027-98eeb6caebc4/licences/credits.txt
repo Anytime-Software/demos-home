@@ -1,0 +1,26 @@
+Mad Fades Barbershop - website preview, version 20261027-98eeb6caebc4 (27 October 2026)
+Prepared by Anytime Software. Not the official website of Mad Fades Barbershop; not commissioned or approved by the business.
+The page has no forms, cookies, analytics or tracking and sends nothing. The message helper only copies text on your device.
+
+BUSINESS FACTS
+Name, street address, phone and services: the business's Google listing https://www.google.com/maps/place/Mad+Fades+Barbershop/data=!4m7!3m6!1s0x86d67b6e7fa68b27:0xe41c61f6c6f9b220!8m2!3d32.1688444!4d-110.9771213!16s%2Fg%2F11rvgk4ms4!19sChIJJ4umf2571oYRILL5xvZhHOQ; the business's own website https://www.google.com/search?q=Mad%20Fades%20Barbershop%20Tucson%20Instagram (research checked 21 October 2026).
+Left out until the business confirms them: hours, prices, ratings and reviews and the business's own photos.
+
+PHOTOGRAPHY (illustrative stock only - not this business's work, premises, staff, vehicles or customers)
+From StockSnap.io, released under CC0 1.0 public domain (https://stocksnap.io/license). Resized to WebP.
+- band: https://stocksnap.io/photo/GZP9ZEQPFL
+- contact: https://stocksnap.io/photo/E6IP9VDDDM
+- group1: https://stocksnap.io/photo/0JOFWQX4N0
+- hero1: https://stocksnap.io/photo/O6KYUCUFY4
+- hero2: https://stocksnap.io/photo/7M505B7MYV
+- hero3: https://stocksnap.io/photo/W5T564U6YN
+
+TYPE
+Instrument Serif, Manrope and JetBrains Mono - SIL Open Font License 1.1, self-hosted via Fontsource (licence files in this folder).
+
+CODE AND EFFECTS
+GSAP 3 with ScrollTrigger and SplitText (GreenSock Standard 'no charge' licence, https://gsap.com/standard-license),
+Lenis smooth scroll (MIT, darkroom.engineering), built with Vite (MIT).
+Motion patterns (masked line reveals, flip words, spotlight cards, scroll-lit text, cursor image preview, pinned clip-path
+reveal, moving gradient border, magnetic buttons) follow ideas popularised by Aceternity UI, Magic UI and 21st.dev;
+they were written fresh for this template. No code, text or layout was copied from earlier previews of this business.
